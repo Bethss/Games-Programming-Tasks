@@ -1,6 +1,6 @@
 # Games-Programming-Tasks
 
-Unfortunately this summer has probably been my worst ever, I've been having some family problems and it has severly impacted my ability to dedicate as much time as I would have loved to each of these inidividual projects.
+Unfortunately this summer has probably been my worst ever, I've been having some family problems and it has severly impacted my ability to dedicate as much time as I would have loved to each of these inidividual projects. I even made custom fonts using photoshop haha
 
 I will likely retake this course!
 
