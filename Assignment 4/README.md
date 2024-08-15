@@ -1,4 +1,4 @@
-# Assignment 4
+# Assignment 4: Rise of AI
 
 All movement use Up Arrow, Down Arrow, Left Arrow, or Right Arrow
 
