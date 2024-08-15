@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 2: Pong Clone
 
 All movement use Up Arrow, Down Arrow, Left Arrow, or Right Arrow
 
